@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This repository is read-only / archived and will not recieve updates.
+
 # [Typedoc Documentation Website](https://sudokuru.github.io/Backend/)<br>
 
 # Todo
